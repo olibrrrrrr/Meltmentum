@@ -13,6 +13,10 @@ This project is built on top of [Momentum](https://github.com/Nexus-FN/Momentum)
 
 This project is licensed under the GNU General Public License v3.0
 
+# Additions So Far
+
+- Partial Arena Support (Need to add cloudstorage for points)
+
 ## Todo
 
 - Creative
