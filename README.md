@@ -6,13 +6,17 @@ Includes:
 
 Friends
 XMPP
+
 Item Shop Rotator & Webhook
+
 Arena Support (kinda)
 
 Todo:
 
 Arena Full Support
+
 Creative Support
+
 Cloudstorage Stuff
 
 This repo will be rarely updated.
