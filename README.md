@@ -4,7 +4,6 @@
 
 Melt is a modified version of the Momentum backend, which itself is a fork and partial rewrite of the Fortnite Backend LawinServerV2.
 
-If you use Aura Backend in your project, please give credit by mentioning it or by crediting me as alxan__ on Discord or alxan-balao on GitHub.
 
 ## Credits
 
